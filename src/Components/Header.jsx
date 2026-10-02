@@ -6,7 +6,7 @@ const Header = () => {
 
 
 
-    <h1>ali</h1>
+      Ali 
     </div>
   )
 }
