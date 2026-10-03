@@ -7,6 +7,7 @@ import Products from './Pages/Products'
 import Header from './Components/Header'
 
 const App = () => {
+  alert('oxshadimi')
   return (
     <div>
 
