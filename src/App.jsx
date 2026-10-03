@@ -10,7 +10,9 @@ const App = () => {
   alert('oxshadimi')
   
   return (
-    <div>
+    <div>   
+
+      <h1>jonks</h1>
 
       <Header />
       <Routes >
